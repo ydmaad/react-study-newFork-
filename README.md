@@ -38,7 +38,7 @@ React 공식 문서를 완독하는 것이 우리의 목표입니다. <br/>
 | 4주차 | 2024-06-15 | `useMemo`, `useCallback`   | TBD     |
 | 5주차 | 2024-06-22 | `useTransition`, `useDeferredValue` | TBD |
 
-| <img src="team_image.png"  width="150" height="150"/> 
+| <img src="./team_image2.png"  width="150" height="150"/> | <img src="./team_image2.png"  width="150" height="150"/> | <img src="./team_image2.png"  width="150" height="150"/> | <img src="./team_image2.png"  width="150" height="150"/> | <img src="./team_image2.png"  width="150" height="150"/> |
 | --- | --- | --- | --- | --- |
 |https://github.com/sseulnim|https://github.com/FEsunmin|https://github.com/YUNSAERA|https://github.com/mensung2|https://github.com/ydmaad|
 
