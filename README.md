@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=FF6A00&text=🥔Potato%20🥕Carrot%20Study&fontSize=40&fontColor=FFDCC8&fontAlignY=35&width=1200)
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+
 # Potato Carrot Study
 안녕하세요! 우리는 **Potato Carrot Study** 팀입니다. 우리는 부트캠프에서 만나 함께 **React 공식 문서**를 공부하고 있습니다.
 ## 소개
