@@ -1,7 +1,7 @@
 # Potato Carrot Study
 안녕하세요! 우리는 **Potato Carrot Study** 팀입니다. 우리는 부트캠프에서 만나 함께 **React 공식 문서**를 공부하고 있습니다.
 ## 소개
-우리는 4명의 팀원으로 구성되어 있으며, 매주 React 공식 문서의 2~3개 카테고리를 함께 공부합니다. 공부한 내용은 각자의 개인 블로그에 작성하여 팀의 GitHub 리포지토리에 공유합니다.
+우리는 5명의 팀원으로 구성되어 있으며, 매주 React 공식 문서의 2~3개 카테고리를 함께 공부합니다. 공부한 내용은 각자의 개인 블로그에 작성하여 팀의 GitHub 리포지토리에 공유합니다.
 ## 목표
 React 공식 문서를 완독하는 것이 우리의 목표입니다. 이를 통해 React에 대한 깊은 이해를 얻고, 실력을 향상시키고자 합니다.
 ## 학습 계획
@@ -20,3 +20,7 @@ React 공식 문서를 완독하는 것이 우리의 목표입니다. 이를 통
 | 3주차 | 2024-06-08 | `useEffect`, `useLayoutEffect` | TBD |
 | 4주차 | 2024-06-15 | `useMemo`, `useCallback`   | TBD     |
 | 5주차 | 2024-06-22 | `useTransition`, `useDeferredValue` | TBD |
+
+| <img src="team_image.png"  width="150" height="150"/> 
+| :---: | :---: | :---: | :---: | :---: |
+|https://github.com/sseulnim|https://github.com/FEsunmin|https://github.com/YUNSAERA|https://github.com/mensung2|https://github.com/ydmaad|
