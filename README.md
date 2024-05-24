@@ -46,9 +46,9 @@ React 공식 문서를 완독하는 것이 우리의 목표입니다. <br/>
 
 <br/><br/><br/>
 
-| 최슬기  | 김선민  | 윤새라  | 박민서  | 양민애 |
-| --- | --- | --- | --- | --- |
-| <img src="./team_image2.png"  width="100%" height="150" > | <img src="./team_image2.png"  width="100%" height="150"/> | <img src="./team_image2.png"  width="100%" height="150"/> | <img src="./team_image2.png"  width="100%" height="150"/> | <img src="./team_image2.png"  width="100%" height="150"/> |
-|https://github.com/sseulnim|https://github.com/FEsunmin|https://github.com/YUNSAERA|https://github.com/mensung2|https://github.com/ydmaad|
+| 최슬기 | 김선민 | 윤새라 | 박민서 | 양민애 | 김현진 |
+| --- | --- | --- | --- | --- | --- |
+| <img src="./team_image2.png"  width="100%" height="150" > | <img src="./team_image2.png"  width="100%" height="150"/> | <img src="./team_image2.png"  width="100%" height="150"/> | <img src="./team_image2.png"  width="100%" height="150"/> | <img src="./team_image2.png"  width="100%" height="150"/> | <img src="./team_image2.png"  width="100%" height="150"/> |
+|https://github.com/sseulnim|https://github.com/FEsunmin|https://github.com/YUNSAERA|https://github.com/mensung2|https://github.com/ydmaad|https://github.com/hj7321|
 
 </div>
