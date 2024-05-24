@@ -30,7 +30,7 @@ React 공식 문서를 완독하는 것이 우리의 목표입니다. <br/>
 | 금요일 | 랜덤으로 발표자를 정하여 발표를 진행합니다. |
 | 토의 | 발표 후 모르는 부분을 체크하고 정리합니다. | 
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ### 주차별 계획 및 발표자
 | 주차  | 기간       | 범위                       | 발표자  |
@@ -40,6 +40,8 @@ React 공식 문서를 완독하는 것이 우리의 목표입니다. <br/>
 | 3주차 | 2024-06-08 | `useEffect`, `useLayoutEffect` | TBD |
 | 4주차 | 2024-06-15 | `useMemo`, `useCallback`   | TBD     |
 | 5주차 | 2024-06-22 | `useTransition`, `useDeferredValue` | TBD |
+
+<br/><br/><br/>
 
 | <img src="./team_image2.png"  width="150" height="150"/> | <img src="./team_image2.png"  width="150" height="150"/> | <img src="./team_image2.png"  width="150" height="150"/> | <img src="./team_image2.png"  width="150" height="150"/> | <img src="./team_image2.png"  width="150" height="150"/> |
 | --- | --- | --- | --- | --- |
